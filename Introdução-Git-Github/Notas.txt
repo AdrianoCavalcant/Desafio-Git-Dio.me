@@ -1,0 +1,5 @@
+Link para download do Git 
+
+Notas para o desafio 
+
+Git Bash(um terminal para anota;oes do git)
